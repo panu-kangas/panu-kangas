@@ -54,13 +54,13 @@ Evetually I will also start doing my own side projects which can then be found h
 My name is Panu Kangas, and I'm a 30 year-old soon-to-be software developer. I live in Helsinki with my lovely family; wife and two kids, love them very much 🥰  
 
 I'm a career changer. I did acting for 10 years (mostly musical theatre, audio book narratinng and cartoon dubbing) but wanted to find a more secure occupation.  
-I founded coding in 2023 and fell in love immidiately; this is definitely the thing I wanna do from now on! 🔥  
+I found coding in 2023 and fell in love with it immidiately; this is definitely the thing I wanna do from now on! 🔥  
 Logical problem solving is really rewarding and creating new things in the digital world inspiring. 🏆
 
 So here we are!  
-I'm now studying at Hive Helsinki and want to become an expert in software development 😎
+I'm now studying coding and want to become an expert in software development 😎
 
-In my spare time I like to play football, enjoy movies and video games and of course hang out with my lovely kids 😍
+In my spare time I like to play football, enjoy movies and video games and of course hang out with my lovely family 😍
 
 <br/>  
 
@@ -69,6 +69,6 @@ In my spare time I like to play football, enjoy movies and video games and of co
 💻 In school: I'm doing a project called "pipex" which is about multiple processes and how to handle them correctly.  
 I'll update the files here once I'm done!
 
-🌱 Own projects and wishes: I'm eagerly waiting for an opportunity to learn another language!  
+🌱 Own projects and wishes: I'm eagerly waiting for an opportunity to learn more coding languages!  
 For now I only know C and some bash, but I'd love to take a look at Python or Java.  
 Just a bit busy at the moment with kids, work and school... so maybe learning these a bit later this year 🤓
