@@ -9,10 +9,16 @@ For now, only my "push_swap" -project can be found here... but that's actually a
 
 All feed back and tips (GitHub or code related) are very much welcome! I'd like to be a real pro some day 💪
 
-My contact info:  
+Here is my contact info:  
 
 📧 kangas.panu@gmail.com  
-📱 +358400861961
+📱 +358400861961  
+
+<br/>
+  
+🌞 Have a great day! 🌞
+
+<br/>
 
 ### What can you find here? ❓🤔
 
@@ -28,6 +34,7 @@ And the list goes on... 😁
 
 Evetually I will also start doing my own side projects which can then be found here 👍
 
+<br/>  
 
 ### A little bit about me (the short version) 😎
 
@@ -37,22 +44,24 @@ Evetually I will also start doing my own side projects which can then be found h
 
 🔥 Super hyped and passionate about coding and computer science. It's my new thing!  
 
-🤩 Dreaming of landing an awesome job in IT-industry. Especially interested in software development, game development and could architecture.  
+🤩 Dreaming of landing an awesome job in IT-industry. Especially interested in software development, game development, cyber security and cloud architecture.  
 
+<br/>  
 
 ### A little bit more about me (if you still wanna know more...) 😁
 
 My name is Panu Kangas, and I'm a 30 year-old soon-to-be software developer. I live in Helsinki with my lovely family; wife and two kids, love them very much 🥰  
 
 I'm a career changer. I did acting for 10 years (mostly musical theatre, audio book narratinng and cartoon dubbing) but wanted to find a more secure occupation.  
-I founded coding in 2023 and fell in love immidiately; this is definitely the thing I wanna do from now on. Logical problem solving is really rewarding and
-creating new things in the digital world inspiring.
+I founded coding in 2023 and fell in love immidiately; this is definitely the thing I wanna do from now on! 🔥  
+Logical problem solving is really rewarding and creating new things in the digital world inspiring. 🏆
 
 So here we are!  
 I'm now studying at Hive Helsinki and want to become an expert in software development 😎
 
 In my spare time I like to play football, enjoy movies and video games and of course hang out with my lovely kids 😍
 
+<br/>  
 
 ### What am I working on at the moment? 🤓
 
