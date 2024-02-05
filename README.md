@@ -36,7 +36,7 @@ Evetually I will also start doing my own side projects which can then be found h
 
 <br/>  
 
-### A little bit about me (the short version) 😎
+### Little bit about me 😎
 
 👨‍🎓 Studying coding at Hive Helsinki (read more about the education here: https://www.hive.fi/en/about-hive/)  
   
@@ -48,7 +48,7 @@ Evetually I will also start doing my own side projects which can then be found h
 
 <br/>  
 
-### A little bit more about me (if you still wanna know more...) 😁
+### Little more about me (if you still wanna know more...) 😁
 
 My name is Panu Kangas, and I'm a 30 year-old soon-to-be software developer. I live in Helsinki with my lovely family; wife and two kids, love them very much 🥰  
 
