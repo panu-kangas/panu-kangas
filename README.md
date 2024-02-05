@@ -1,6 +1,6 @@
 # Hi there! My name is Panu ☺️  
 
-Welcome to my GitHub! 🎆  
+🎆 Welcome to my GitHub! 🎆  
 
 I first need to state that this place is still quite much "under construction" since I'm only just starting my GitHub journey.  
 So please, bear with me 😁  
