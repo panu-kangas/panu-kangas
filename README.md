@@ -13,6 +13,7 @@ Here is my contact info:
 
 📧 kangas.panu@gmail.com  
 📱 +358400861961  
+www.linkedin.com/in/panu-kangas  
 
 <br/>
   
