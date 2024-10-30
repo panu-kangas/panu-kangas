@@ -1,15 +1,11 @@
 # Hi there! My name is Panu ☺️  
 
-Welcome to my GitHub! 👋   
+Welcome to my GitHub! 👋    
 
-I first need to state that this place is still quite much "under construction" since I'm only just starting my GitHub journey.  
-So please, bear with me 😁  
+Here you can find all of my cool coding projects including games, school projects and even a bash-shell replica 🔥
 
-For now, only my "push_swap" -project can be found here... but that's actually an interesting one! Go check that out, more info in the repo 😎
 
-All feed back and tips (GitHub or code related) are very much welcome! I'd like to be a real pro some day 💪
-
-Here is my contact info:  
+If you want to get in touch, here is my contact info:  
 
 📧 kangas.panu@gmail.com  
 📱 +358400861961  
