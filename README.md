@@ -36,8 +36,10 @@ www.linkedin.com/in/panu-kangas
 ### What am I working on at the moment? 🤓
 
 💻 IN SCHOOL 💻
+
 I'm learning C++ at the moment, next up is a bigger project: we need to build a functioning web server with only C++!
 
 
 🌱 OWN PROJECTS: 🌱
+
 I have lately been really interested about game development! So now I'm utilizing my new C++ skills to build fun games with the help of SFML-library.
