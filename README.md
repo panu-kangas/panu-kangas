@@ -28,7 +28,6 @@ www.linkedin.com/in/panu-kangas
 
 🤩 Dreaming of landing an awesome job in IT-industry. 
 
-👾 I'm especially interested in game development. 👾
 
 <br/>  
 
