@@ -36,9 +36,9 @@ www.linkedin.com/in/panu-kangas
 
 💻 IN SCHOOL 💻
 
-I'm learning C++ at the moment, next up is a bigger project: we need to build a functioning web server with only C++!
+I have started my final project at Hive: Transcendence! It's a 5 developer team project that has a goal of creating a multiplayer game hosted in web browser.
 
 
 🌱 OWN PROJECTS 🌱
 
-I have lately been really interested about game development! So now I'm utilizing my new C++ skills to build fun games with the help of SFML-library.
+Currently, I’m diving into full stack development through a fun Pokémon-themed database project —  go check out the Pokédex App from my repositories! ☺️
