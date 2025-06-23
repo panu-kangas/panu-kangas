@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 👋    
 
-Here you can find all of my cool coding projects including games, school stuff and even a bash-shell replica 🔥
+Here you can find all of my cool programming projects including games, Hive Helsinki coding school assignments and even a bash-shell replica 🔥
 
 
 If you want to get in touch, here is my contact info:  
@@ -20,13 +20,15 @@ www.linkedin.com/in/panu-kangas
 
 ### Little bit about me 😎
 
-👨‍🎓 I'm studying coding at Hive Helsinki (read more about the education here: https://www.hive.fi/en/about-hive/)  
+👨‍🎓 I'm a Hive Helsinki graduate from 2025 (read more about the education here: https://www.hive.fi/en/about-hive/)
+
+📱 I'm currently working as an embedded software developer Trainee at Nokia. My work is mainly focused around Nokia's 5G network product
   
-🎭 I was a musical theatre actor for 10 years, but now I'm changing career to IT. You might have heard my voice listening to audio books in Finnish, since I've narrated over 100 of them 🤓
+🎭 Before my IT career I was a musical theatre actor for 10 years. You might have heard my voice listening to audio books in Finnish; I've narrated over 100 of them 🤓
 
-🔥 Super hyped and passionate about coding and computer science! 
+🔥 Super hyped and passionate about coding and computer science!
 
-🤩 Dreaming of landing an awesome job in IT-industry. 
+👾 I'm especially interested in game development, which I do as a hobby for now
 
 
 <br/>  
@@ -34,11 +36,12 @@ www.linkedin.com/in/panu-kangas
 
 ### What am I working on at the moment? 🤓
 
-💻 IN SCHOOL 💻
+💻 AT WORK 💻
 
-I have started my final project at Hive: Transcendence! It's a 5 developer team project that has a goal of creating a multiplayer game hosted in web browser.
+My role at Nokia includes a lot of different tasks, but that are mostly focused on fixing bugs in the 5G software and developing test environments for them. I use C++ with the embedded software tasks and Python when working with tests environments.
 
 
 🌱 OWN PROJECTS 🌱
 
-Currently, I’m diving into full stack development through a fun Pokémon-themed database project —  go check out the Pokédex App from my repositories! ☺️
+Currently my goal is to build myself a portfolio website, where I can show off my own games 😎  
+I did some web development with React and Typescript in Hive's final project, so now I'm putting those skills in good use.
