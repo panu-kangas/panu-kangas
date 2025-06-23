@@ -1,6 +1,6 @@
 # Hi there! My name is Panu ☺️  
 
-Welcome to my GitHub! 👋    
+Welcome to my GitHub page! 👋    
 
 Here you can find all of my cool programming projects including games, Hive Helsinki coding school assignments and even a bash-shell replica 🔥
 
