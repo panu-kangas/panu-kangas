@@ -22,13 +22,11 @@ www.linkedin.com/in/panu-kangas
 
 👨‍🎓 I'm a Hive Helsinki graduate from 2025 (read more about the education here: https://www.hive.fi/en/about-hive/)
 
-📱 I'm currently working as an embedded software developer Trainee at Nokia. My work is mainly focused around Nokia's 5G network product
+📱 I'm currently working as an embedded software developer Trainee at Nokia. My work is mainly focused around Nokia's 5G software
   
-🎭 Before my IT career I was a musical theatre actor for 10 years. You might have heard my voice listening to audio books in Finnish; I've narrated over 100 of them 🤓
+🎭 Before my IT career I was a musical theatre actor for 10 years. I've also done a significant career as a voice actor; I've narrated over 100 audio books and been the Finnish voice of hundreds of different cartoon characters
 
-🔥 Super hyped and passionate about coding and computer science!
-
-👾 I'm especially interested in game development, which I do as a hobby for now
+👾 As a software developer I'm especially interested in game development, which I do a lot on my free time
 
 
 <br/>  
@@ -38,10 +36,10 @@ www.linkedin.com/in/panu-kangas
 
 💻 AT WORK 💻
 
-My role at Nokia includes a lot of different tasks, but that are mostly focused on fixing bugs in the 5G software and developing test environments for them. I use C++ with the embedded software tasks and Python when working with tests environments.
+My role at Nokia includes a lot of different tasks, but most of them are focused on fixing bugs in the 5G software and developing test environments for them. I use C++ with the embedded software tasks and Python when working with test environments.
 
 
 🌱 OWN PROJECTS 🌱
 
 Currently my goal is to build myself a portfolio website, where I can show off my own games 😎  
-I did some web development with React and Typescript in Hive's final project, so now I'm putting those skills in good use.
+I did some web development with React and Typescript in Hive's final project, so now I'm putting those skills in good use!
