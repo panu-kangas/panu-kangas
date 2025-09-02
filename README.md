@@ -22,7 +22,7 @@ www.linkedin.com/in/panu-kangas
 
 👨‍🎓 I’m a Hive Helsinki graduate from 2025. (Read more about the education here: https://www.hive.fi/en/about-hive/)
 
-📱 I’m currently working as an Embedded Software Developer Trainee at Nokia. My work mainly focuses on Nokia’s 5G software.
+📱 I’m currently working as an Embedded Software Trainee at Nokia. My work mainly focuses on Nokia’s 5G software.
   
 🎭 Before my IT career, I was a musical theatre actor for 10 years. I’ve also had a significant career as a voice actor—I’ve narrated over 100 audiobooks and been the Finnish voice of hundreds of cartoon characters.
 
@@ -32,7 +32,7 @@ www.linkedin.com/in/panu-kangas
 <br/>  
 
 
-### What am I working on at the moment? 🤓
+### What is happening at the moment? 🤓
 
 💻 AT WORK 💻
 
