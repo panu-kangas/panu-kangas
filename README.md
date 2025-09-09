@@ -26,8 +26,6 @@ www.linkedin.com/in/panu-kangas
   
 🎭 Before my IT career, I was a musical theatre actor for 10 years. I’ve also had a significant career as a voice actor—I’ve narrated over 100 audiobooks and been the Finnish voice of hundreds of cartoon characters.
 
-👾  As a software developer, I’m especially interested in game development, which I spend a lot of my free time working on.
-
 
 <br/>  
 
