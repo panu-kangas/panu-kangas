@@ -11,10 +11,11 @@ If you want to get in touch, here’s my contact info:
 📱 +358400861961  
 
 👾 You can also visit my game dev portfolio page here 👾  
-[Game Development Portfolio](https://panugames.com)  
+<a href="https://panugames.com" target="_blank" rel="noopener noreferrer">Game Development Portfolio</a>  
 
 My LinkedIn:  
-[LinkedIn](https://linkedin.com/in/panu-kangas)  
+<a href="https://linkedin.com/in/panu-kangas" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+
 
 <br/>
   
@@ -25,7 +26,8 @@ My LinkedIn:
 
 ### Little bit about me 😎
 
-👨‍🎓 I’m a Hive Helsinki graduate from 2025. (Read more about the education here: https://www.hive.fi/en/about-hive/)
+👨‍🎓 I’m a Hive Helsinki graduate from 2025. (Read more about the education 
+<a href="https://www.hive.fi/en/about-hive/" target="_blank" rel="noopener noreferrer">here</a>)
 
 📱 I’m currently working as an Embedded Software Trainee at Nokia. My work mainly focuses on Nokia’s 5G software.
   
