@@ -14,7 +14,7 @@ If you want to get in touch, here’s my contact info:
 [Game Development Portfolio](https://panugames.com)  
 
 My LinkedIn:  
-[LinkedIn](www.linkedin.com/in/panu-kangas)  
+[LinkedIn](https://linkedin.com/in/panu-kangas)  
 
 <br/>
   
