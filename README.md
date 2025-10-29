@@ -2,18 +2,23 @@
 
 Welcome to my GitHub page! 👋    
 
-Here you can find all of my cool programming projects, including games, Hive Helsinki coding school assignments, and even a bash-shell replica. 🔥
+Here you can find all of my cool programming projects, including games, Hive Helsinki coding school assignments, and even a bash-shell replica. 🔥  
 
 
 If you want to get in touch, here’s my contact info: 
 
 📧 kangas.panu@gmail.com  
 📱 +358400861961  
-www.linkedin.com/in/panu-kangas  
+
+👾 You can also visit my game dev portfolio page here 👾  
+[Game Development Portfolio](https://panugames.com)  
+
+My LinkedIn:  
+[LinkedIn](www.linkedin.com/in/panu-kangas)  
 
 <br/>
   
-🌞 Have a great day! 🌞
+🌞 Have a great day! 🌞  
 
 <br/>
 
@@ -39,5 +44,5 @@ My role at Nokia involves a variety of tasks, but most of them focus on fixing b
 
 🌱 OWN PROJECTS 🌱
 
-Currently, my goal is to build a portfolio website where I can showcase my own games. 😎
-I worked with React and TypeScript during Hive’s final project, and now I’m putting those skills to good use!
+After finishing my game dev portfolio page, it's time to add some content to it 👾👾👾  
+So new games inbound, stay tuned ❤️
