@@ -10,19 +10,18 @@ If you want to get in touch, here’s my contact info:
 📧 kangas.panu@gmail.com  
 
 <a href="https://linkedin.com/in/panu-kangas" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
-
-**👾 You should also check out my game dev portfolio web page here 👾**  
-<a href="https://panugames.com" target="_blank" rel="noopener noreferrer">Game Development Portfolio</a> 
-
-
-<br/>
   
 🌞 Have a great day! 🌞  
 
-<br/>
+</br>
 
 
-### Little bit about me 😎
+## 👾 If you like games, you should definitely check out my game dev portfolio web page 👾  
+<a href="https://panugames.com" target="_blank" rel="noopener noreferrer">Game Development Portfolio</a> 
+
+</br>
+
+## Little bit about me 😎
 
 👨‍🎓 I’m a Hive Helsinki graduate from 2025. (Read more about the education 
 <a href="https://www.hive.fi/en/about-hive/" target="_blank" rel="noopener noreferrer">here</a>)
@@ -35,7 +34,7 @@ If you want to get in touch, here’s my contact info:
 <br/>  
 
 
-### What is happening at the moment? 🤓
+## What is happening at the moment? 🤓
 
 💻 AT WORK 💻
 
