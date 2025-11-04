@@ -8,13 +8,11 @@ Here you can find all of my cool programming projects, including games, Hive Hel
 If you want to get in touch, here’s my contact info: 
 
 📧 kangas.panu@gmail.com  
-📱 +358400861961  
 
-👾 You can also visit my game dev portfolio page here 👾  
-<a href="https://panugames.com" target="_blank" rel="noopener noreferrer">Game Development Portfolio</a>  
+<a href="https://linkedin.com/in/panu-kangas" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 
-My LinkedIn:  
-<a href="https://linkedin.com/in/panu-kangas" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+**👾 You should also check out my game dev portfolio web page here 👾**  
+<a href="https://panugames.com" target="_blank" rel="noopener noreferrer">Game Development Portfolio</a> 
 
 
 <br/>
